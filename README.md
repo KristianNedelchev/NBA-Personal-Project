@@ -1,5 +1,6 @@
 # NBA-Personal-Project
-Project Structure: 
+
+## Project Structure: 
 <br>
 Part 1: Data Scraping and dataset structuring - Uploaded
 <br>
