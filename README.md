@@ -2,7 +2,7 @@
 
 ## Project Structure: 
 <br>
-<p style="color:green;">Uploaded</p>
+Part 1: Web Scraping - Uploaded
 <br>
 Part 2: Analysis of the 2022 NBA season - Uploaded
 <br>
