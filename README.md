@@ -2,7 +2,6 @@
 
 ## Project Structure: 
 <br>
-Part 1: Data Scraping and dataset structuring - 
 <p style="color:green;">Uploaded</p>
 <br>
 Part 2: Analysis of the 2022 NBA season - Uploaded
